@@ -97,23 +97,28 @@ html {
     box-sizing: inherit;
 }
 .statistics li.style1 {
-    background-color: #ff6ad5; 
+    background-color: #ff6ad5;
+    text-align: center;
 }
 
 .statistics li.style2 {
-    background-color: #c774e8; 
+    background-color: #c774e8;
+    text-align: center;
 }
 
 .statistics li.style3 {
-    background-color: #ad8cff; 
+    background-color: #ad8cff;
+    text-align: center;
 }
 
 .statistics li.style4 {
-    background-color: #8795e8; 
+    background-color: #8795e8;
+    text-align: center;
 }
 
 .statistics li.style5 {
-    background-color: #94d0ff; 
+    background-color: #94d0ff;
+    text-align: center;
 }
 
 body {
