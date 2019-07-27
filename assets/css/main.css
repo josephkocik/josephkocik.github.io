@@ -2897,7 +2897,6 @@ table.alt tbody tr td {
 }
 
 .statistics li {
-    text-align: center;
     -moz-flex: 1;
     -webkit-flex: 1;
     -ms-flex: 1;
