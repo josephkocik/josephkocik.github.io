@@ -34,6 +34,7 @@ body {
 
 ol, ul {
     list-style: none;
+    table-layout: fixed;
 }
 
 blockquote, q {
@@ -98,27 +99,22 @@ html {
 }
 .statistics li.style1 {
     background-color: #ff6ad5;
-    text-align: center;
 }
 
 .statistics li.style2 {
     background-color: #c774e8;
-    text-align: center;
 }
 
 .statistics li.style3 {
     background-color: #ad8cff;
-    text-align: center;
 }
 
 .statistics li.style4 {
     background-color: #8795e8;
-    text-align: center;
 }
 
 .statistics li.style5 {
     background-color: #94d0ff;
-    text-align: center;
 }
 
 body {
@@ -2884,7 +2880,6 @@ table.alt tbody tr td {
 /* Statistics */
 
 .statistics {
-    text-align: center;
     display: -moz-flex;
     display: -webkit-flex;
     display: -ms-flex;
@@ -2903,6 +2898,7 @@ table.alt tbody tr td {
     flex: 1;
     padding: 1.5em;
     color: #ffffff;
+    text-align: center;
 }
 
 .statistics li.style1 {
@@ -3287,6 +3283,7 @@ body.is-preload #header.alt .logo {
     margin: 0;
     padding: 0;
     list-style: none;
+    table-layout: fixed;
 }
 
 #nav ul li {
